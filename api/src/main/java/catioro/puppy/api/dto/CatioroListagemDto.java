@@ -2,9 +2,7 @@ package catioro.puppy.api.dto;
 
 import catioro.puppy.api.entity.CatioroEntity;
 import lombok.AllArgsConstructor;
-import lombok.Getter;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
 
 
 @NoArgsConstructor
